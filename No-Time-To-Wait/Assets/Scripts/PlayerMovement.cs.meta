@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ea822a4f84b66b84e9779fca91f6fc2e
+timeCreated: 1488482091
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bodyMouseBalanceScript: {instanceID: 0}
+  - bodyGameObject: {instanceID: 0}
+  - bodyTransform: {instanceID: 0}
+  - facial1: {fileID: 21300000, guid: a9d4d31d6c72c9f45b696bd0e006fcc1, type: 3}
+  - facial2: {fileID: 21300000, guid: 2516f035cdeb0f048b77713928e9c6a1, type: 3}
+  - facial3: {fileID: 21300000, guid: 4976f8cb95dc4924595c86f9a59aa201, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

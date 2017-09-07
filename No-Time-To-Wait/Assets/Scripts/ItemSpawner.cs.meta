@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ec0fbcbe71f7d224e90f0bbc179a868c
+timeCreated: 1488661398
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - item: {instanceID: 0}
+  - trayPos: {instanceID: 0}
+  - parent: {instanceID: 0}
+  - dollarBill: {fileID: 1747758492380976, guid: 2cb1ddb4c0bd8814ea9f616a34885a2d,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

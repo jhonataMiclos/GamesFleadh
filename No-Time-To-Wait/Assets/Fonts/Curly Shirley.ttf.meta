@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 795e15492bdfd554eba4c61e04d23b47
+timeCreated: 1488664042
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CurlyShirley
+  fontNames:
+  - CurlyShirley
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
